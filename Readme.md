@@ -1,5 +1,9 @@
 # Project Readme
 
+## Additional Resources
+
+For a detailed guide and roadmap on building basic HTML websites, visit [Basic HTML Website Roadmap](https://roadmap.sh/projects/basic-html-website).
+
 ## Overview
 
 This project is built entirely using HTML and includes all essential SEO meta tags to ensure optimal search engine visibility and performance.
